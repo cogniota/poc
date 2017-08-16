@@ -1,1 +1,1 @@
-# poc
+# Cogniota project proof of concept 
